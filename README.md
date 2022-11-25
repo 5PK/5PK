@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I like building things and solving problems. Currently a full stack developer for a no-code CRM platform.
+
+
 <!--
 **5PK/5PK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
