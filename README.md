@@ -1,10 +1,11 @@
-### Hi there 👋😄
+# Hi there 👋😄
 
-I like building things and solving problems.
-
-
+### I like building things and solving problems.
+<br/>
 I'm working on:
+<br/>
 ✨ Component development for a no-code CRM
+<br/>
 ✨ Tennis matchmaker built in React Native
 
 <!--
