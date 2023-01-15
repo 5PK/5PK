@@ -4,10 +4,13 @@
 <br/>
 I'm working on:
 <br/>
-✨ Component development for a no-code CRM
+✨ Feature development for the fastest headless CMS on the market
 <br/>
 ✨ Tennis matchmaker built in React Native
-
+<br/>
+✨ <s>Component development for a no-code CRM</s>
+<br/>
+✨ <s>Creating a management tool for IOT devices</s>
 <br/>
 <br/>
 Check me out @ www.kevincodes.ca
