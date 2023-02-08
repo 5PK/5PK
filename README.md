@@ -4,9 +4,9 @@
 <br/>
 I'm working on:
 <br/>
-✨ Feature development for the fastest headless CMS on the market
+✨ Feature development for a CMS focused on speed and flexibility
 <br/>
-✨ Tennis matchmaker built in React Native
+✨ A tennis matchmaker - I am the technical lead for this project!
 <br/>
 ✨ <s>Component development for a no-code CRM</s>
 <br/>
