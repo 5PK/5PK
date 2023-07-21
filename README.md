@@ -8,9 +8,10 @@ I'm working on:
 <br/>
 ✨ A tennis matchmaker - I am the technical lead for this project!
 <br/>
+<br/>
 ✨ <s>Component development for a no-code CRM</s>
 <br/>
-✨ <s>Creating a management tool for IOT devices</s>
+✨ <s>A management tool for IOT devices in a parking environment</s>
 <br/>
 <br/>
 Check me out @ www.kevincodes.ca
