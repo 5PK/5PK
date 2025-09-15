@@ -4,14 +4,16 @@
 <br/>
 I'm working on:
 <br/>
-✨ Feature development for a CMS focused on speed and flexibility
+✨ Feature development for a Headless CMS
 <br/>
-✨ A tennis matchmaker - I am the technical lead for this project!
+✨ A mobile tennis matchmaker, as the technical lead
 <br/>
+
+Worked on:
 <br/>
-✨ <s>Component development for a no-code CRM</s>
+✅ Component development for a no-code CRM
 <br/>
-✨ <s>A management tool for IOT devices in a parking environment</s>
+✅ A management dashboard for IOT devices in a parking environment
 <br/>
 <br/>
 Check me out @ www.kevincodes.ca
